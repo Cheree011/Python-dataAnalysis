@@ -1,0 +1,8 @@
+Task 5 – Python Data Cleaning
+
+• Used Python IDLE for execution
+• Pandas library for data cleaning
+• Handled missing values using mean
+• Removed duplicates
+• Created new derived column
+• Exported cleaned dataset to CSV
